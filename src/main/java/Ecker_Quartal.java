@@ -1,3 +1,22 @@
+/*----------------------------------------------------------
+ *                 HTL-Leonding / Klasse: 1AHITM
+ * ----------------------------------------------------------
+ * Übungsnr.:   15
+ * Übungstitel: Quartal
+ * Autoren:     Quirin Ecker
+ * Version:     1.0
+ * Datum:       27.10.2017
+ * ----------------------------------------------------------
+ * Kurzbeschreibung:
+ * Das Programm sagt dir in welchen Qaurtal dein Geburtsmonat liegt.
+ *
+ * ----------------------------------------------------------
+ * Beschreibung der grundlegenden Lösungsidee:
+ * durch if berechnen in welchen Qaurtal dein Geburtsmonat liegt.
+ *
+ * ----------------------------------------------------------
+*/
+
 import java.util.Scanner;
 
 public class Ecker_Quartal {
